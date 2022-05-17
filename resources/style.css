@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+}
+.center{
+    text-align: center;
+}
+.camp{
+    padding: 40px;
+}
+a{
+    color: rgb(149, 238, 238);
+    font-size: 21px;
+}
+h1{
+    font-size: 55px;
+}
